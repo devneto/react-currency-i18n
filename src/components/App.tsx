@@ -1,5 +1,5 @@
-import React from 'react';
+import React from 'react'
 
 export const Foo: React.FC = () => {
-    return <p>React Package</p>
+  return <p>React Package</p>
 }
